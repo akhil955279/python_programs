@@ -1,0 +1,7 @@
+r = 10
+
+# calculate area of circle
+area = 3.14 * r * r
+
+# display result
+print('Area of circle = ',area)
